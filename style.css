@@ -14,14 +14,13 @@ div{
     background-color: #1f7d58;
     padding: 20px;
     border-radius: 20px;
-    display:flex;
 }
 input[type="text"] {
     width: 40%;
     padding: 10px;
     font-size: 16px;
     border: 1px solid #ccc;
-    border-radius: 20px;
+    borborder-radius:10px;
 }
 
 button {
