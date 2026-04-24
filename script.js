@@ -11,11 +11,15 @@ document.getElementById('addTask').addEventListener('click', function() {
     const taskList = document.getElementById('taskList');
     
     const li = document.createElement('li');
-    li.textContent = taskText;
     
-    li.addEventListener('click', function() {
+    const checkbox = document.createElement('input');
+    checkbox.type = 'checkbox';
+    checkbox.addEventListener('change', function() {
         li.classList.toggle('completed');
     });
+    
+    li.appendChild(checkbox);
+    li.appendChild(document.createTextNode(' ' + taskText));
     
     const deleteBtn = document.createElement('button');
     deleteBtn.textContent = 'Delete';

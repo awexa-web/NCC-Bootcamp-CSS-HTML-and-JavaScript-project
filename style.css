@@ -68,6 +68,7 @@ li.completed {
     border: none;
     padding: 5px 10px;
     cursor: pointer;
+    text-decoration: none;
 }
 
 .delete-btn:hover {
