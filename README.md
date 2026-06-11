@@ -13,7 +13,8 @@ This project was developed as part of the NCC Web Development Bootcamp. It demon
 * Semantic HTML structure
 * Custom CSS styling
 * Functionality javascript
-
+## Live Demo
+[Click here](https://awexa-web.github.io/NCC-Bootcamp-CSS-HTML-and-JavaScript-project/)
 ## Technologies Used
 
 * HTML5
