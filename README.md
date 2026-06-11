@@ -23,7 +23,7 @@ This project was developed as part of the NCC Web Development Bootcamp. It demon
 ## Project Structure
 
 ```text
-NCC Bootcamp CSS HTML and JavaScript project/
+NCC-Bootcamp-CSS-HTML-and-JavaScript-project/
 ├── index.html
 ├── css/
 ├── images/
